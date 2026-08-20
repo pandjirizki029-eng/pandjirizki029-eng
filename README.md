@@ -1,30 +1,82 @@
-# Hi there, I'm Pandji 👋
+# Hi there, I'm Pandji! 👋 🚀
 
-Full-Stack Developer & Tech Explorer passionate about building modern web applications, 3D graphics, and interactive digital solutions.
+<div align="center">
+  <!-- Efek teks mengetik yang dinamis -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Tech+Explorer;3D+Graphics+Enthusiast;Building+Modern+Web+Applications" alt="Typing SVG" />
+</div>
 
----
+<br>
 
-### 🚀 Tech Stack
+### 👨‍💻 About Me
 
-**Frontend:**  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
-
-**Backend & Tools:**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+- 🔭 I’m currently working on **Interactive Digital Solutions & 3D Graphics**
+- 🌱 I’m currently learning **Advanced Next.js, Three.js, and Cloud Infrastructure**
+- 💬 Ask me about **React, Laravel, Next.js, and Web Development**
+- ⚡ Fun fact: **I love blending code with design to create immersive web experiences!**
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
+<!-- Menggunakan skillicons untuk tampilan icon yang seragam dan sangat modern -->
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandjirizki029-eng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandjirizki029-eng&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,html,css,js&perline=8" alt="Frontend Tech Stack" />
+  </a>
 </p>
+</details>
+
+<details open>
+<summary><b>Backend & Infrastructure</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,python,docker,mysql,nodejs,git,linux&perline=8" alt="Backend Tech Stack" />
+  </a>
+</p>
+</details>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <!-- GitHub Trophies (Menambahkan elemen gamifikasi) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pandjirizki029-eng&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Trophy" />
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <!-- GitHub Stats & Top Languages (Disusun berdampingan tanpa border untuk kesan clean) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pandjirizki029-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandjirizki029-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- GitHub Activity Graph (Grafik kontribusi dinamis) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandjirizki029-eng&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="center">
+  <!-- Pastikan untuk mengganti link di bawah dengan link aslimu -->
+  <a href="mailto:email-kamu@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/username-linkedin-kamu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-kamu.com">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
