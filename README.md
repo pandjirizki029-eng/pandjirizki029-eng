@@ -76,7 +76,7 @@
   <a href="www.linkedin.com/in/pandji-rizki-927ba3421">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://portfolio-kamu.com](https://portofolio-pandji.vercel.app/)">
+  <a href="https://portofolio-pandji.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
